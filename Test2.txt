@@ -3,4 +3,4 @@ Example of text - Test2
 dans la branche : ajout de cette ligne
 dans la branche : ajout de cette deuxième ligne
 
-2ème ligne ajoutée
+2ème ligne ajoutée - conflit newBranch
